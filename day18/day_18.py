@@ -11,7 +11,8 @@ Into:
 
 
 '''
-
+# Mostly lifed from: https://github.com/arknave/advent-of-code-2020/blob/main/day18/day18.py
+# This problem did not jive with me.
 def get_operating_order(eq,advanced=False):
     ops = []
     stk = []
